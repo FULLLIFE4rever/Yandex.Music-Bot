@@ -1,0 +1,3 @@
+aiogram==3.3.0
+yandex-music
+pydantic_settings==2.0.0
